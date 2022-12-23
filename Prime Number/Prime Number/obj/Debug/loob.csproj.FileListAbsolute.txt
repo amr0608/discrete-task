@@ -1,0 +1,8 @@
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\obj\Debug\loob.csproj.AssemblyReference.cache
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\obj\Debug\loob.csproj.SuggestedBindingRedirects.cache
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\obj\Debug\loob.csproj.CoreCompileInputs.cache
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\bin\Debug\loob.exe.config
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\bin\Debug\loob.exe
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\bin\Debug\loob.pdb
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\obj\Debug\loob.exe
+C:\Users\start\Desktop\C#\ConsoleApp1\loob\loob\obj\Debug\loob.pdb
